@@ -5,3 +5,5 @@ requirements:
 - time
 - pyscreeze
 - pillow
+  
+- python 3.12
